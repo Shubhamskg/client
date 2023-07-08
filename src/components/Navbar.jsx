@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 const Navbar = ({ user }) => {
   const logout = () => {
-    window.open("https://api0.netlify.app/auth/logout", "_self");
+    window.open("https://api2-3bx7.onrender.com/auth/logout", "_self");
   };
   return (
     <div className="navbar">
