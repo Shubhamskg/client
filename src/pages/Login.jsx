@@ -4,15 +4,15 @@ import Github from "../img/github.png";
 
 const Login = () => {
   const google = () => {
-    window.open("https://api0.netlify.app/auth/google", "_self");
+    window.open("https://api2-3bx7.onrender.com/auth/google", "_self");
   };
 
   const github = () => {
-    window.open("https://api0.netlify.app/auth/github", "_self");
+    window.open("https://api2-3bx7.onrender.com/auth/github", "_self");
   };
 
   const facebook = () => {
-    window.open("https://api0.netlify.app/auth/facebook", "_self");
+    window.open("https://api2-3bx7.onrender.com/auth/facebook", "_self");
   };
 
   return (
