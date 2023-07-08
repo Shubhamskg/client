@@ -11,7 +11,7 @@ const App = () => {
 
   useEffect(() => {
     const getUser = () => {
-      fetch("https://api0.netlify.app/auth/login/success", {
+      fetch("https://api2-3bx7.onrender.com/auth/login/success", {
         method: "GET",
         credentials: "include",
         headers: {
